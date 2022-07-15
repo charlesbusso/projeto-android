@@ -171,7 +171,7 @@ div.video > iframe{
 
 aside {
     background-color: var(--cor01);
-    padding: 30px;
+    padding: 2px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
 }
