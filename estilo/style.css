@@ -96,8 +96,8 @@ nav :hover {
     background-color: var(--cor03);
     color: var(--cor05);
 }
-main {
-    min-width: 320px;
+main {t
+    min-width: 300px;
     max-width: 800px;
     margin: auto;
     margin-bottom: 30px;
@@ -171,7 +171,7 @@ div.video > iframe{
 
 aside {
     background-color: var(--cor01);
-    padding: 2px;
+    padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
 }
