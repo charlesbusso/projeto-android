@@ -96,7 +96,7 @@ nav :hover {
     background-color: var(--cor03);
     color: var(--cor05);
 }
-main {t
+main {
     min-width: 300px;
     max-width: 800px;
     margin: auto;
